@@ -267,6 +267,24 @@ namespace PhotoOrganizer
 
         private void btnGo_Click(object sender, EventArgs e)
         {
+            if(!Directory.Exists(txtSourceFolder.Text))
+            {
+                MessageBox.Show("Please choose a valid source directory.");
+                return;
+            }
+            if (!Directory.Exists(txtDestinationFolder.Text))
+            {
+                try
+                {
+                    DirectoryInfo dirInfo = Directory.CreateDirectory(txtSourceFolder.Text);
+                    if (!dirInfo.Exists) throw new Exception("Could not create the directory!");
+                }
+                catch
+                {
+                    MessageBox.Show("Please choose a valid destination directory.");
+                    return;
+                }
+            }
 
             string[] filePaths = Directory.GetFiles(txtSourceFolder.Text, "*", SearchOption.AllDirectories);
             DateTime datePictureTaken = new DateTime();
@@ -299,8 +317,11 @@ namespace PhotoOrganizer
                         // the file is system, skip it.
                         continue;
                     }
+                 
+                    string[] supportedExtensions = { ".jpeg", ".jpg", ".bmp" , ".gif", ".exif", ".png", ".tiff"};
+                    string extension = info.Extension.ToLower();
 
-                    if (info.Extension.ToLower() == ".jpg")
+                    if (supportedExtensions.Any(extension.ToLowerInvariant().Contains))
                     {
                         using (System.Drawing.Bitmap bmp = new System.Drawing.Bitmap(sourceFilePath))
                         {
