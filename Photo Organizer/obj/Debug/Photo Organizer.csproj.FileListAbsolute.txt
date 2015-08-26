@@ -20,3 +20,6 @@ C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo Orga
 C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\PhotoOrganizer.frmMain.resources
 C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo_Organizer.Properties.Resources.resources
 C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.csproj.GenerateResource.Cache
+C:\Users\Prose\Documents\GitHub\PhotoOrganizer\Photo Organizer\bin\Debug\Photo Organizer.exe.config
+C:\Users\Prose\Documents\GitHub\PhotoOrganizer\Photo Organizer\obj\Debug\Photo Organizer.exe
+C:\Users\Prose\Documents\GitHub\PhotoOrganizer\Photo Organizer\obj\Debug\Photo Organizer.pdb
