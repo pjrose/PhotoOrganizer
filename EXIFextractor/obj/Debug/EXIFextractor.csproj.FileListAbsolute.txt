@@ -1,0 +1,10 @@
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\EXIFextractor\bin\release\EXIFextractor.dll
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\EXIFextractor\bin\release\EXIFextractor.pdb
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\EXIFextractor\obj\Debug\EXIFextractor.csprojResolveAssemblyReference.cache
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\EXIFextractor\obj\Debug\EXIFextractor.dll
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\EXIFextractor\obj\Debug\EXIFextractor.pdb
+C:\Users\Prose\Desktop\Copied\EXIFextractor\EXIFextractor\bin\release\EXIFextractor.dll
+C:\Users\Prose\Desktop\Copied\EXIFextractor\EXIFextractor\bin\release\EXIFextractor.pdb
+C:\Users\Prose\Desktop\Copied\EXIFextractor\EXIFextractor\obj\Debug\EXIFextractor.csprojResolveAssemblyReference.cache
+C:\Users\Prose\Desktop\Copied\EXIFextractor\EXIFextractor\obj\Debug\EXIFextractor.dll
+C:\Users\Prose\Desktop\Copied\EXIFextractor\EXIFextractor\obj\Debug\EXIFextractor.pdb

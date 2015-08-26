@@ -1,0 +1,22 @@
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\bin\Debug\Photo Organizer.exe.config
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\obj\Debug\Photo_Organizer.Properties.Resources.resources
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.csproj.GenerateResource.Cache
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\bin\Debug\Photo Organizer.exe
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\bin\Debug\Photo Organizer.pdb
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\bin\Debug\EXIFextractor.dll
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\bin\Debug\EXIFextractor.pdb
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.exe
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.pdb
+C:\Users\Prose\Documents\exifArticleSrc\exifArticleSrc\EXIFextractor\EXIFextractor\Photo Organizer\obj\Debug\PhotoOrganizer.frmMain.resources
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\bin\Debug\Photo Organizer.exe.config
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.exe
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.pdb
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\bin\Debug\Photo Organizer.exe
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\bin\Debug\Photo Organizer.pdb
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\bin\Debug\EXIFextractor.dll
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\bin\Debug\EXIFextractor.pdb
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.csprojResolveAssemblyReference.cache
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\PhotoOrganizer.frmMain.resources
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo_Organizer.Properties.Resources.resources
+C:\Users\Prose\Desktop\Copied\EXIFextractor\Photo Organizer\obj\Debug\Photo Organizer.csproj.GenerateResource.Cache

@@ -1,0 +1,80 @@
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\was rotated left.jpg to C:\Users\Prose\Desktop\Copied\2013-10-31\was rotated left.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\was rotated left.jpg, DTOrig exif data successfully parsed.
+File C:\Users\Prose\Desktop\Camera Uploads\desktop.ini skipped, it is a hidden file.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.43.44.jpg to C:\Users\Prose\Desktop\Copied\2015-05-29\2015-05-29 11.43.44.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.43.44.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.42.22.jpg to C:\Users\Prose\Desktop\Copied\2015-05-29\2015-05-29 11.42.22.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.42.22.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.42.11-2.jpg to C:\Users\Prose\Desktop\Copied\2015-05-29\2015-05-29 11.42.11-2.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.42.11-2.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.42.11-1.jpg to C:\Users\Prose\Desktop\Copied\2015-05-29\2015-05-29 11.42.11-1.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2015-05-29.
+File C:\Users\Prose\Desktop\Camera Uploads\2015-05-29 11.42.11-1.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2015-05-03 21.16.31.jpg to C:\Users\Prose\Desktop\Copied\2015-05-03\2015-05-03 21.16.31.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2015-05-03.
+File C:\Users\Prose\Desktop\Camera Uploads\2015-05-03 21.16.31.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2015-05-02 13.22.43.png to C:\Users\Prose\Desktop\Copied\2015-05-02\2015-05-02 13.22.43.png.
+Created Directory C:\Users\Prose\Desktop\Copied\2015-05-02.
+WARNING: File C:\Users\Prose\Desktop\Camera Uploads\2015-05-02 13.22.43.png, used last modified date, creation date was newer.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2015-02-23 07.32.14.jpg to C:\Users\Prose\Desktop\Copied\2015-02-23\2015-02-23 07.32.14.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2015-02-23.
+File C:\Users\Prose\Desktop\Camera Uploads\2015-02-23 07.32.14.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-12-10 03.38.11.mp4 to C:\Users\Prose\Desktop\Copied\2014-12-09\2014-12-10 03.38.11.mp4.
+WARNING: File C:\Users\Prose\Desktop\Camera Uploads\2014-12-10 03.38.11.mp4, used last modified date, creation date was newer.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-12-09 21.36.20.jpg to C:\Users\Prose\Desktop\Copied\2014-12-09\2014-12-09 21.36.20.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2014-12-09.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-12-09 21.36.20.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.14.49.jpg to C:\Users\Prose\Desktop\Copied\2014-07-27\2014-07-27 13.14.49.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.14.49.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.14.34.jpg to C:\Users\Prose\Desktop\Copied\2014-07-27\2014-07-27 13.14.34.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.14.34.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.14.26.jpg to C:\Users\Prose\Desktop\Copied\2014-07-27\2014-07-27 13.14.26.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.14.26.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.12.21.jpg to C:\Users\Prose\Desktop\Copied\2014-07-27\2014-07-27 13.12.21.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2014-07-27.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-07-27 13.12.21.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-07-16 18.47.44.jpg to C:\Users\Prose\Desktop\Copied\2014-07-16\2014-07-16 18.47.44.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2014-07-16.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-07-16 18.47.44.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-06-16 21.58.58.jpg to C:\Users\Prose\Desktop\Copied\2014-06-16\2014-06-16 21.58.58.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2014-06-16.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-06-16 21.58.58.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.30.57.jpg to C:\Users\Prose\Desktop\Copied\2014-06-01\2014-06-01 17.30.57.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.30.57.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.21.02.jpg to C:\Users\Prose\Desktop\Copied\2014-06-01\2014-06-01 17.21.02.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.21.02.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.17.39.jpg to C:\Users\Prose\Desktop\Copied\2014-06-01\2014-06-01 17.17.39.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.17.39.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.17.38.jpg to C:\Users\Prose\Desktop\Copied\2014-06-01\2014-06-01 17.17.38.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2014-06-01.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-06-01 17.17.38.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-05-31 21.48.26.jpg to C:\Users\Prose\Desktop\Copied\2014-05-31\2014-05-31 21.48.26.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2014-05-31.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-05-31 21.48.26.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2014-05-25 14.01.48.jpg to C:\Users\Prose\Desktop\Copied\2014-05-25\2014-05-25 14.01.48.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2014-05-25.
+File C:\Users\Prose\Desktop\Camera Uploads\2014-05-25 14.01.48.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.48.34.jpg to C:\Users\Prose\Desktop\Copied\2013-11-16\2013-11-16 09.48.34.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.48.34.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.48.24.jpg to C:\Users\Prose\Desktop\Copied\2013-11-16\2013-11-16 09.48.24.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.48.24.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.43.23.jpg to C:\Users\Prose\Desktop\Copied\2013-11-16\2013-11-16 09.43.23.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.43.23.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.40.45.jpg to C:\Users\Prose\Desktop\Copied\2013-11-16\2013-11-16 09.40.45.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.40.45.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.40.23.jpg to C:\Users\Prose\Desktop\Copied\2013-11-16\2013-11-16 09.40.23.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.40.23.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.40.14.jpg to C:\Users\Prose\Desktop\Copied\2013-11-16\2013-11-16 09.40.14.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 09.40.14.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 08.35.41.jpg to C:\Users\Prose\Desktop\Copied\2013-11-16\2013-11-16 08.35.41.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2013-11-16.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-11-16 08.35.41.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-10-31 22.24.42.3gp to C:\Users\Prose\Desktop\Copied\2013-10-31\2013-10-31 22.24.42.3gp.
+WARNING: File C:\Users\Prose\Desktop\Camera Uploads\2013-10-31 22.24.42.3gp, used last modified date, creation date was newer.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-10-31 17.24.22.jpg to C:\Users\Prose\Desktop\Copied\2013-10-31\2013-10-31 17.24.22.jpg.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-10-31 17.24.22.jpg, DTOrig exif data successfully parsed.
+Successfully copied file C:\Users\Prose\Desktop\Camera Uploads\2013-10-31 17.24.17.jpg to C:\Users\Prose\Desktop\Copied\2013-10-31\2013-10-31 17.24.17.jpg.
+Created Directory C:\Users\Prose\Desktop\Copied\2013-10-31.
+File C:\Users\Prose\Desktop\Camera Uploads\2013-10-31 17.24.17.jpg, DTOrig exif data successfully parsed.
+File C:\Users\Prose\Desktop\Camera Uploads\.dropbox skipped, it is a hidden file.
+Starting.
